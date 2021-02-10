@@ -18,7 +18,7 @@
     "loopback-connector-swagger": "^3.1.0",
     "morgan": "^1.7.0",
     "serve-favicon": "^2.0.1",
-    "strong-error-handler": "^1.0.1"
+    "strong-error-handler": "^3.5.0"
   },
   "devDependencies": {
     "eslint": "^3.17.1",
